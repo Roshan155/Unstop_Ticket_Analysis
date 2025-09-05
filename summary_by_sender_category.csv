@@ -1,0 +1,13 @@
+sender,category,count
+alice@example.com,downtime/outage,3
+alice@example.com,account verification,2
+alice@example.com,billing/refund,2
+bob@customer.com,downtime/outage,1
+charlie@partner.org,downtime/outage,1
+diana@client.co,billing/refund,2
+diana@client.co,login/password,2
+diana@client.co,account verification,1
+eve@startup.io,downtime/outage,2
+eve@startup.io,account verification,1
+eve@startup.io,billing/refund,1
+eve@startup.io,login/password,1
