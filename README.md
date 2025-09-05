@@ -1,17 +1,13 @@
-Coding Case — Ticket Cleaning & Categorization
+ Coding Case — Ticket Cleaning & Categorization
 
-repo Structure :
-unstop-ticket-analysis/
-
-├── README.md
-├── unstop_solution.py
-├── data/
-│  └── sample_input.csv         
-├── outputs/
-│   ├── tickets_cleaned.csv
-│   ├── summary_by_category.csv
-│   ├── summary_by_priority.csv
-│   └── summary_by_sender_category.csv
+How to run:
+1) Requirements: Python 3.x, pandas, matplotlib
+2) Run:  (python) unstop_solution.py
+3) Outputs generated in the same folder:
+   - tickets_cleaned.csv
+   - summary_by_category.csv
+   - summary_by_priority.csv
+   - summary_by_sender_category.csv
 
 Notes:
 - We fixed common encoding artifacts (â€™ -> '). 
