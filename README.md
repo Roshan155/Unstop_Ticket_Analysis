@@ -2,11 +2,11 @@ Coding Case — Ticket Cleaning & Categorization
 
 repo Structure :
 unstop-ticket-analysis/
-│
+
 ├── README.md
 ├── unstop_solution.py
 ├── data/
-│   └── sample_input.csv         
+│  └── sample_input.csv         
 ├── outputs/
 │   ├── tickets_cleaned.csv
 │   ├── summary_by_category.csv
